@@ -1,0 +1,28 @@
+
+/* CSS code */
+/* This selector styles all <p> elements */
+/* p {
+    color: blue;
+    font-size: 18px;
+}
+
+/* This selector styles all <h1> elements */
+/* .center {
+    color: green;
+    font-size: 24px;
+}
+
+/* This selector styles all <a> elements */
+/* #color {
+    text-decoration: none;
+    color: red;
+}  */ 
+/* h1, h2, p {
+    text-align: center;
+    color: red;
+  } */
+  p.center {
+    text-align: center;
+    color: red;
+  }
+  
